@@ -1,5 +1,5 @@
 # WeatherForecast
-to compile this java program in command line:
+to compile and execute this java program in command line:
 1. Download a java JDK
 2. Download the Main.java file
 3. Download the json-20231013.jar file
