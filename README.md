@@ -1,4 +1,4 @@
-# UPDATED BRANCH IS MASTER NOT MAIN
+# HARDENED WEATHER APPLICATION IS IN MASTER BRANCH NOT MAIN
 # WeatherForecast
 to compile and execute this java program in command line:
 1. Download a java JDK
