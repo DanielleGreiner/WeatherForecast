@@ -20,7 +20,7 @@ static int max = 1000;
 		Scanner keyboard = new Scanner(System.in);
 		System.out.print("Enter a zipcode");
 		zipcode = keyboard.next();
-		
+		try {
 		while(!validZipcode){
 			//Validates zipcode with validate class
 			if(!Validate.zipcode(zipcode)) {
@@ -98,12 +98,16 @@ static int max = 1000;
 					Log.log(LogType.INFO, "API output successfully translated to 3 day forecast");  
 					
 				   return;
-					}
+				}
 			}	
-			
 		}
 	}
+	catch(Exception e){
+		System.out.println("An unknown error occured");
+	}
+	}
 }
+	
 	
 		
 

@@ -1,17 +1,10 @@
-2024428-133414:INFO:Successfully cleared log file as max length was exceeded
-2024428-133419:INFO:Successfully submitted zipcode
-2024428-133443:INFO:Successfully submitted zipcode
-2024428-13366:INFO:Successfully submitted zipcode
-2024428-134140:INFO:Successfully submitted zipcode
-2024428-13443:INFO:Successfully submitted zipcode
-2024428-135245:INFO:Successfully submitted zipcode
-2024428-135534:INFO:Successfully submitted zipcode
-2024428-13569:INFO:Successfully submitted zipcode
-2024428-135738:INFO:Successfully submitted zipcode
-2024428-135812:INFO:Successfully submitted zipcode
-2024428-1414:INFO:Successfully submitted zipcode
-2024428-1415:INFO:Zipcode successfully accepted through API
-2024428-1415:INFO:API output successfully translated to 3 day forecast
-2024428-142324:INFO:Successfully submitted zipcode
-2024428-142325:INFO:Zipcode successfully accepted through API
-2024428-142325:INFO:API output successfully translated to 3 day forecast
+2024428-144551:INFO:Successfully cleared log file as max length was exceeded
+2024428-14462:INFO:Unsuccessfully submitted zipcode
+2024428-14467:INFO:Unsuccessfully submitted zipcode
+2024428-14467:INFO:Successfully submitted zipcode
+2024428-14468:INFO:Invalid API response received, program quitting
+2024428-144624:INFO:Unsuccessfully submitted zipcode
+2024428-144637:INFO:Unsuccessfully submitted zipcode
+2024428-144637:INFO:Successfully submitted zipcode
+2024428-144638:INFO:Zipcode successfully accepted through API
+2024428-144638:INFO:API output successfully translated to 3 day forecast
