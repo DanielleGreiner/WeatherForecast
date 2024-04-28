@@ -1,3 +1,4 @@
+CURRENT BRANCH IS MASTER NOT MAIN
 # WeatherForecast
 to compile and execute this java program in command line:
 1. Download a java JDK
